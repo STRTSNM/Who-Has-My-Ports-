@@ -2,7 +2,11 @@
 A port management app. Only for linux tho. 
 <p align="center"> <img src="https://raw.githubusercontent.com/STRTSNM/Who-Has-My-Ports-/refs/heads/main/icon.png" /> </p>
 
+# 📸 Screenshot
+&ensp;
+<p align="center"> <img src="https://github.com/STRTSNM/Who-Has-My-Ports-/blob/main/img.png?raw=true" /> </p>
 
+&ensp;
 
 ## ✨ Features
 
@@ -12,7 +16,6 @@ A port management app. Only for linux tho.
 ---
 
 &ensp;
-
 
 ## 💻 How to run  **¯\_(ツ)_/¯**
 
